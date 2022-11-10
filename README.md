@@ -2,7 +2,7 @@
 ## _Manage School/work days more easily in your spreadsheets_
 
 <img src="https://img.shields.io/badge/build-passing-brightgreen"/>
-
+- Access this worksheet and make a copy: https://docs.google.com/spreadsheets/d/1PwIULCKNSKs5Urk-4CSHV2GgdVnonvAudvfvEm2QpQo/edit?usp=sharing
 - Choose the days of the week
 - Click generate days
 - ✨Done
