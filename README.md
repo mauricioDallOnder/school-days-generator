@@ -3,8 +3,11 @@
 
 <img src="https://img.shields.io/badge/build-passing-brightgreen"/>
 - Access this worksheet and make a copy: https://docs.google.com/spreadsheets/d/1PwIULCKNSKs5Urk-4CSHV2GgdVnonvAudvfvEm2QpQo/edit?usp=sharing
+<br> 
 - Choose the days of the week
+- <br> 
 - Click generate days
+- <br> 
 - ✨Done
 
 Table of contents
